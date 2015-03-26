@@ -1,0 +1,1 @@
+JavaZen is a Java API for integrating with [zenoss](http://www.zenoss.org/). It provides the ability to interact with a zenoss instance through the published json/ext-direct API.
